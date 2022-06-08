@@ -1,12 +1,12 @@
 ---
 id: introduction
-title: Introduction au Wiki
-description: Wiki contributif pour le jeu Train Empire.
+title: Introduction aux Tutos
+description: Tutos contributif pour l'outil MyLines.
 hide_title: false
 sidebar_label: Introduction
 ---
 
-Bienvenue sur le Wiki communautaire de Train Empire. Vous trouverez ici de nombreuses aides et astuces en français. Vous découvrirez comment configurer votre compagnie ferroviaire, gérer vos employés et vos engins. Même les PDG chevronés trouveront ici leur bonheur. Welcome sur le wiki Train Empire made in Communauté.
+Bienvenue sur les Tutos communautaire de MyLines. Vous trouverez ici de nombreuses aides et astuces en français. Vous découvrirez comment configurer votre compagnie ferroviaire, gérer vos employés et vos engins. Même les CM chevronés trouveront ici leur bonheur. Welcome sur les Tutos MyLines made in Communauté.
 
 ## Comment puis-je contribuer au wiki ?
 
