@@ -4,7 +4,7 @@ module.exports = {
     "Tout pour utiliser au maximum les capacités du moulin. Attention, ce site n'est pas affilié au jeu",
   url: "http://mylines.fr",
   baseUrl: "/",
-  favicon: "https://train-empire.com/fr/images/logo.png",
+  favicon: "logo.png",
   organizationName: "Non afilié à MyLines", // Usually your GitHub org/user name.
   projectName: "Les Tutos MyLines", // Usually your repo name.
   themeConfig: {
@@ -12,7 +12,7 @@ module.exports = {
       title: "Tutos MyLines",
       logo: {
         alt: "My Site Logo",
-        src: "https://train-empire.com/fr/images/logo.png"
+        src: "logo.png"
       },
       links: [
         {
