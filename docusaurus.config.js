@@ -1,15 +1,15 @@
 module.exports = {
-  title: "Train Empire Communauté",
+  title: "Les Tutos MyLines",
   tagline:
-    "Un regroupement d'outils et d'éléments fait par la communauté pour la communauté Attention, ce site n'est pas affilié au jeu",
-  url: "http://train-empire.com",
+    "Tout pour utiliser au maximum les capacités du moulin. Attention, ce site n'est pas affilié au jeu",
+  url: "http://mylines.fr",
   baseUrl: "/",
   favicon: "https://train-empire.com/fr/images/logo.png",
-  organizationName: "Non afilié à Train Empire", // Usually your GitHub org/user name.
-  projectName: "TE-Community", // Usually your repo name.
+  organizationName: "Non afilié à MyLines", // Usually your GitHub org/user name.
+  projectName: "Les Tutos MyLines", // Usually your repo name.
   themeConfig: {
     navbar: {
-      title: "TE Community",
+      title: "Tutos MyLines",
       logo: {
         alt: "My Site Logo",
         src: "https://train-empire.com/fr/images/logo.png"
@@ -21,10 +21,10 @@ module.exports = {
           label: "Tutos",
           position: "left"
         },
-        { to: "blog", label: "Outils", position: "left" },
+        { to: "blog", label: "Liste autres outils", position: "left" },
         {
-          href: "https://train-empire.com",
-          label: "Train Empire",
+          href: "https://mylines.fr",
+          label: "MyLines",
           position: "right"
         }
       ]
@@ -49,12 +49,12 @@ module.exports = {
           title: "Nous rejoindre",
           items: [
             {
-              label: "Jeu Train Empire",
-              href: "https://train-empire.com"
+              label: "MyLines",
+              href: "https://mylines.fr"
             },
             {
               label: "Discord",
-              href: "https://discord.gg/K9ja4UKWaR"
+              href: "https://discord.gg/AfMzyPHDq5"
             }
           ]
         },
@@ -62,17 +62,16 @@ module.exports = {
           title: "Pour participer",
           items: [
             {
-              label: "Envoyez votre tuto/outil à",
-              to: "Tibo#4872"
+              label: "Envoyez votre tuto/outil à Tibo#4872"
             },
             {
               label: "GitHub",
-              href: "https://github.com/Cyber-Thibaut/TE-community"
+              href: "https://github.com/Cyber-Thibaut/TutoMylines"
             }
           ]
         }
       ],
-      copyright: `Copyright © ${new Date().getFullYear()} Thibaut et la communauté TE`
+      copyright: `Copyright © ${new Date().getFullYear()} Thibaut et la communauté MyLines`
     }
   },
   presets: [
