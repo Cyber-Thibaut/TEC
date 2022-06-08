@@ -12,7 +12,7 @@ module.exports = {
       title: "Tutos MyLines",
       logo: {
         alt: "My Site Logo",
-        src: "logo.png"
+        src: "img/logo.png"
       },
       links: [
         {
