@@ -21,7 +21,7 @@ module.exports = {
           label: "Tutos",
           position: "left"
         },
-        { to: "blog", label: "Liste autres outils", position: "left" },
+        { to: "blog", label: "Change-log", position: "left" },
         {
           href: "https://mylines.fr",
           label: "MyLines",
@@ -36,12 +36,8 @@ module.exports = {
           title: "Tutos",
           items: [
             {
-              label: "Style Guide",
-              to: "docs/doc1"
-            },
-            {
-              label: "Second Doc",
-              to: "docs/doc2"
+              label: "Inscription",
+              to: "docs/inscription"
             }
           ]
         },
