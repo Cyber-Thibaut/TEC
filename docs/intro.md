@@ -10,4 +10,4 @@ Bienvenue sur les Tutos communautaire de MyLines. Vous trouverez ici de nombreus
 
 ## Comment puis-je contribuer au wiki ?
 
-Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](docs/contribuer).
+Chacun peut contribuer ; munissez-vous d'un compte GitHub, et rendez-vous sur notre [page de contribution](/contribuer).
