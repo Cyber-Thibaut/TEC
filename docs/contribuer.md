@@ -1,19 +1,19 @@
 ---
 id: contribuer
-title: Contribuer au Wiki de Train Empire
-description: Contribuer est une chose importante pour le Wiki de Train Empire, apprenez comment nous aider sur cette page. :)
+title: Contribuer aux Tutos MyLines
+description: Contribuer est une chose importante pour les tutos MyLines, apprenez comment nous aider sur cette page. :)
 ---
 
-Dans cet article, vous apprendrez pas à pas à créer une page et à la modifier pour devenir un vrai contributeur de ce Wiki. Elle vous expliquera les bases et quelques conseils utiles pour bien débuter.
+Dans cet article, vous apprendrez pas à pas à créer une page et à la modifier pour devenir un vrai contributeur des Tutos. Elle vous expliquera les bases et quelques conseils utiles pour bien débuter.
 
-### Comment modifier une page du Wiki
+### Comment modifier une page des Tutos 
 
 #### Sélection du Fichier
 
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TE-community) puis choisissez le fichier que vous souhaitez éditer dans la liste.
+Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TutoMylines) puis choisissez le fichier que vous souhaitez éditer dans la liste.
 
 :::note Note
-Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien https://te-community.vercel.app/contribuer.
+Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien https://tuto-mylines.vercel.app/contribuer.
 :::
 
 #### Débuter la modification
@@ -48,10 +48,10 @@ Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoris
 
 #### Vérification par l'équipe
 
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff TE Community et les contributeurs chevronnés examinerons votre modification.
+Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff Tutos MyLines et les contributeurs chevronnés examinerons votre modification.
 
 :::info Information
-Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur Discorden envoyant un Message Privé a `@Tibo#4872`.
+Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur Discord en envoyant un Message Privé a `@Tibo#4872`.
 :::
 
 ---
@@ -60,7 +60,7 @@ Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cep
 
 #### Créer une page vide prête à être remplie
 
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TE-community), ensuite choisissez "Add File" puis "Create new file".
+Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TutoMylines), ensuite choisissez "Add File" puis "Create new file".
 
 #### Ajouter le contenu de base
 
@@ -69,7 +69,7 @@ Comme pour la modification, entrez le contenu initial de la page. Veillez à la 
 Une fois le contenu rempli, indiquez ce que cette page initiale contient, et si possible, ajoutez des sources.
 
 :::danger Attention !!!
-Pensez à nommer votre fichier en haut (wiki/nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
+Pensez à nommer votre fichier en haut (Tuto # - nom). **Mettez impérativement `.md` à la fin du fichier ; sans cela, votre page ne fonctionnera pas et sera rejetée**.
 :::
 
 Une fois la page correctement remplie, relisez-vous attentivement, puis ensuite cliquez simplement sur "Propose new file".
@@ -96,7 +96,7 @@ Vous devez laisser coché la case "Allow edits by maintainers" pour nous autoris
 
 #### Vérification par l'équipe
 
-Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff de TE Community et les contributeurs chevronnées examinerons votre nouvelle page.
+Si vous tombez sur la page suivante, vous n'avez plus rien à faire, le staff des Tutos MyLines et les contributeurs chevronnées examinerons votre nouvelle page.
 
 :::info Information
 Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cependant, si vous constatez que cela prend plus de temps, vous pouvez directement nous contacter sur Discord en envoyant un Message Privé a `@Tibo#4872`.
@@ -123,7 +123,7 @@ Vous trouverez ci-dessous un petit tableau d'aide au Markdown, vous pouvez aussi
 | - Liste à point                                      | ![listapoint](https://i.discord.fr/d9Y.png)       |
 | \`code\`                                             | `code`                                            |
 | \*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*           | ![séparateur](https://i.discord.fr/peU.png)       |
-| \[Site de Train Empire\]\(https://train-empire.com/) | [Site de Train Empire](https://train-empire.com/) |
+| \[Site de MyLines\]\(https://mylines.fr/) | [Site de MyLines](https://mylines.fr/) |
 
 ---
 
@@ -136,7 +136,6 @@ Vous pouvez faciliter le travail de l'équipe en rajoutant les [Balises Docusaur
 Vous pouvez ajouter les balises suivantes :
 
 - title
-- keywords
 - description
 
 Par exemple, un début de document :
@@ -144,12 +143,7 @@ Par exemple, un début de document :
 ```yaml
 ---
 title: Contribuer
-keywords:
-  - contribuer
-  - discord
-  - wiki
-  - tutoriel
-description: Contribuer est une chose importante pour le Wiki de Discord FR, apprenez comment nous aider sur cette page. :)
+description: Contribuer est une chose importante pour les Tutos Mylines, apprenez comment nous aider sur cette page. :)
 ---
 
 ```
