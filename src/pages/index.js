@@ -49,7 +49,7 @@ function Home() {
   return (
     <Layout
       title={`Bienvenue sur ${siteConfig.title}`}
-      description="Description will go into a meta tag in <head />"
+      description="Ici retrouvez des tutos ainsi que le détails des MAJ de l'outil MyLines."
     >
       <header className={classnames("hero hero--primary", styles.heroBanner)}>
         <div className="container">
