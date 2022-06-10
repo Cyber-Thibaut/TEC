@@ -10,10 +10,10 @@ Dans cet article, vous apprendrez pas à pas à créer une page et à la modifie
 
 #### Sélection du Fichier
 
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TutoMylines) puis choisissez le fichier que vous souhaitez éditer dans la liste.
+Rendez-vous sur la page [GitHub des Tutos](https://github.com/Cyber-Thibaut/TutoMylines) puis choisissez le fichier que vous souhaitez éditer dans la liste.
 
 :::note Note
-Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien https://tuto-mylines.vercel.app/contribuer.
+Les fichiers portent le nom du lien, par exemple contribuer.md est le fichier correspondant au lien http://tutomylines.vercel.app/docs/contribuer.
 :::
 
 #### Débuter la modification
@@ -56,11 +56,11 @@ Il faudra à l'équipe moins d'une semaine pour examiner votre modification. Cep
 
 ---
 
-### Comment ajouter une page au Wiki
+### Comment ajouter une page aux Tutos
 
 #### Créer une page vide prête à être remplie
 
-Rendez-vous sur la page [GitHub du Wiki](https://github.com/Cyber-Thibaut/TutoMylines), ensuite choisissez "Add File" puis "Create new file".
+Rendez-vous sur la page [GitHub ddes Tutos](https://github.com/Cyber-Thibaut/TutoMylines), ensuite choisissez "Add File" puis "Create new file".
 
 #### Ajouter le contenu de base
 
