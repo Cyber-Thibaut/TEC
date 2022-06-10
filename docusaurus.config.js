@@ -83,13 +83,13 @@ module.exports = {
         docs: {
           sidebarPath: require.resolve("./sidebars.js"),
           // Please change this to your repo.
-          editUrl: "https://github.com/Cyber-Thibaut/TutoMylines"
+          editUrl: "https://github.com/Cyber-Thibaut/TutoMylines/blob/main"
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           editUrl:
-            "https://github.com/Cyber-Thibaut/TutoMylines"
+            "https://github.com/Cyber-Thibaut/TutoMylines/blob/main"
         },
         theme: {
           customCss: require.resolve("./src/css/custom.css")
