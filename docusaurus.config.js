@@ -23,6 +23,12 @@ module.exports = {
         },
         { to: "blog", label: "Change-log", position: "left" },
         {
+          to: "docs/outils",
+          activeBasePath: "docs",
+          label: "Outils Externes",
+          position: "left"
+        },
+        {
           href: "https://mylines.fr",
           label: "MyLines",
           position: "right"

@@ -12,7 +12,8 @@ const features = [
     imageUrl: "img/undraw_docusaurus_mountain.svg",
     description: (
       <>
-        Les Tutos sont rédigés de façon simple par la communauté dans le but vous aider de façon simple.
+        Les Tutos sont rédigés de façon simple par la communauté dans le but
+        vous aider de façon simple.
       </>
     )
   },
@@ -21,8 +22,18 @@ const features = [
     imageUrl: "img/undraw_docusaurus_tree.svg",
     description: (
       <>
-        En ne faisant des tutos que sur MyLines, nous sommes concentrés sur un seul outil 
-        et un seul objectif, vous aider au maximum.
+        En ne faisant des tutos que sur MyLines, nous sommes concentrés sur un
+        seul outil et un seul objectif, vous aider au maximum.
+      </>
+    )
+  },
+  {
+    title: <>Retrouvez ici la liste des outils externes au jeu Train Empire</>,
+    imageUrl: "img/undraw_docusaurus_react.svg",
+    description: (
+      <>
+        MyLines n'est pas le seul outil externe au jeu Train Empire. Retrouvez
+        ici la liste détaillée des nombreux outils.
       </>
     )
   }
