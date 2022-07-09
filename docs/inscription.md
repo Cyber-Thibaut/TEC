@@ -33,7 +33,9 @@ Regardez dans vos spams ou courries indésirables car c'est fréquent que ce mai
 Entrez le nom de votre compagnie ferroviaire (le même que celui sur Train Empire). Vous pourrez le modifier plus tard en cas de problème.
 
 ::: caution
+
 Les noms des sociétés réelles sont interdits (SNCF, SNCB, Trenitalia....)
+
 :::
 # Etape 4 - le mot de passe
 
@@ -50,7 +52,7 @@ Notez bien votre mot de passe et suivez les recommandations de la [CNIL](https:/
 En vous inscrivant, vous certifiez les avoir lues donc lisez les bien ;)
 
 # Etape 6 - Fin
-
+(http://pf.gy/0b9c5f)
 C'est fait ! Vous possédez un compte MyLines !
 Profitez bien de toutes les fonctionnalités ;)
 
