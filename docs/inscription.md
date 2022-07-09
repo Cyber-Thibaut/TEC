@@ -53,6 +53,8 @@ En vous inscrivant, vous certifiez les avoir lues donc lisez les bien ;)
 
 # Etape 6 - Fin
 ![image](https://www.photofunky.net/output/image/0/b/9/c/0b9c5f/photofunky.gif)
+
+
 C'est fait ! Vous possédez un compte MyLines !
 Profitez bien de toutes les fonctionnalités ;)
 
