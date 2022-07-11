@@ -58,4 +58,26 @@ En vous inscrivant, vous certifiez les avoir lues donc lisez les bien ;)
 C'est fait ! Vous possédez un compte MyLines !
 Profitez bien de toutes les fonctionnalités ;)
 
-Pour plus d'info : voici une [vidéo](https://youtu.be/y9ekXNAbMXA) résumant en images ce tuto ;) 
+Pour plus d'info : voici une [vidéo](https://youtu.be/y9ekXNAbMXA) résumant en images ce tuto ;)
+
+# Etape 7 - Connexion à Train Empire
+
+Afin de récupérer vos trains en temps réeln nous avons besoin d'une chose, votre clé API.
+
+:::info Kesako ?
+LA clé API est ce qui permet au site MyLines de communiquer avec le jeu. Sans cette clé nous ne pouvons accéder à vos données....
+:::
+
+## Où la trouver ? 
+Rendez vous dans votre compte Train Empire et générez cette clé.
+Attendez une 20aine de minutes avant de mettre votre clé dans MyLines. En effet, si vous essayez immédiatement après la génération de votre clé, nous ne la reconnaîtrons pas et vous aurez un message d'erreur.
+
+## Que faire de cette clé ?
+Une fois que vous avez la clé, rendez-vous dans votre compte MyLines et renplissez l'encadré "Clé API" avec la clé récupérée précédemment.
+Une fois la clé mise en place, vous pouvez alors utiliser MyLines avec vos trajets réalisés sur Train Empire.
+
+:::caution Attention
+
+Nous n'actualisons pas la base de données toutes les minutes, ainsi il est normal de ne pas voir une gare si vous venez de créer un trajet à l'arrivée ou au départ de celle-ci si c'est le tout premier trajet. Votre trajet apparaitra si vous partez ou arrivez d'une gare déjà utilisée. Rassurez-vous, les trajets sont actualisés dès que vous lancez une recherche.
+
+:::
