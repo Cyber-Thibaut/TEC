@@ -1,10 +1,10 @@
 ---
 id: infotraffic
-title: Ajouter des Info Traffic
+title: Ajouter des Info Trafic
 description: Le Traffic est la base de toute société ferroviaire, prévenons les voyageurs !
 ---
 
-Dans la vie de tous les jours, nous sommes contamment confrontés aux aléas du traffic (train, avion, métro, voiture...) Dans toutes les situations, nous sommmes alertés du retard, du problème et même de l'annulation. Dans Train Empire, nous ne gérons pas la partie voyageurs, nous vendons nos billets et ils sont contents. Via MyLines, vousz pouvez accentuer votre RP en prévenant vos voyageurs via les info traffic. Nous allons aujourd'hui découvrir comment les ajouter.
+Dans la vie de tous les jours, nous sommes contamment confrontés aux aléas du trafic (train, avion, métro, voiture...) Dans toutes les situations, nous sommmes alertés du retard, du problème et même de l'annulation. Dans Train Empire, nous ne gérons pas la partie voyageurs, nous vendons nos billets et ils sont contents. Via MyLines, vous pouvez accentuer votre RP en prévenant vos voyageurs via les info trafic. Nous allons aujourd'hui découvrir comment les ajouter.
 
 # Information voyageur
 
