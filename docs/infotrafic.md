@@ -1,5 +1,5 @@
 ---
-id: infotraffic
+id: infotrafic
 title: Ajouter des Info Trafic
 description: Le Traffic est la base de toute société ferroviaire, prévenons les voyageurs !
 ---
