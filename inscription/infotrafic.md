@@ -35,11 +35,11 @@ Une fois le nom ou la classification ajouté, vous devez ajouter un texte expliq
 
 ## Info éphémère
 
-Depuis la maj [2.2.0](docs/blog/2022-02-27/), il est possible d'afficher les info pour une durée limitée ce qui peut être utile pour des soldes ou pour des travaux. Il faut faire attention à bien renseigner une date sinon l'info trafic se supprime immédiatement car l'outil prendra l'heure et la date actuelle.
+Depuis la maj [2.2.0](../docs/blog/2022-02-27/), il est possible d'afficher les info pour une durée limitée ce qui peut être utile pour des soldes ou pour des travaux. Il faut faire attention à bien renseigner une date sinon l'info trafic se supprime immédiatement car l'outil prendra l'heure et la date actuelle.
 
 ## Suppression et retard de trains
 
-Depuis la maj [2.3.0](docs/blog/2022-06-26/), il est possible d'afficher un retard ou une suppression d'un train dans les panneaux info gare ainsi que directement dans les recherches d'intinéraire. Pour cela, vous devez ajouter une info traffic et cocher la case correspondante. Si vous choissisez un retard de 10 minutes par exemple dans les recherches d'itinéraires cela s'affichera comme cela : ~~10h01~~ 10h11 Si vous choisissez une annulation, dans les recherches d'itinéraires cela s'affichera comme cela : ~~10h01~~ _annulé_
+Depuis la maj [2.3.0](../docs/blog/2022-06-26/), il est possible d'afficher un retard ou une suppression d'un train dans les panneaux info gare ainsi que directement dans les recherches d'intinéraire. Pour cela, vous devez ajouter une info traffic et cocher la case correspondante. Si vous choissisez un retard de 10 minutes par exemple dans les recherches d'itinéraires cela s'affichera comme cela : ~~10h01~~ 10h11 Si vous choisissez une annulation, dans les recherches d'itinéraires cela s'affichera comme cela : ~~10h01~~ _annulé_
 
 Cela s'affichera également sur les panneaux info gares comme IRL.
 
